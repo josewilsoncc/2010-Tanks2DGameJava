@@ -1,0 +1,9 @@
+Chucho los controles son estos:
+W,A,S,D     -> Flechas del jugador 1
+"flechas"   -> Flechas del jugador 2
+
+V   -> disparar J1
+b   -> mover cañon J1
+
+-   -> disparar J2
+,   -> mover cañon J2
